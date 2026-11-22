@@ -15,8 +15,11 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/deepson-shakya-1a5847419/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41" />
+  </a>
   <a href="mailto:deepsonshakya12@gmail.com">
-    <img src="https://img.shields.io/badge/📧_deepsonshakya12@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41" />
+    <img src="https://img.shields.io/badge/Email-deepsonshakya12@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41" />
   </a>
 </p>
 
@@ -204,6 +207,9 @@ INCIDENT RESPONSE & LOGS
 <p align="center">
   <a href="https://github.com/Hot-potato69">
     <img src="https://img.shields.io/badge/GitHub-Hot--potato69-0d1117?style=for-the-badge&logo=github&logoColor=00ff41" />
+  </a>
+  <a href="https://www.linkedin.com/in/deepson-shakya-1a5847419/">
+    <img src="https://img.shields.io/badge/LinkedIn-Deepson_Shakya-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41" />
   </a>
   <a href="mailto:deepsonshakya12@gmail.com">
     <img src="https://img.shields.io/badge/Email-deepsonshakya12@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41" />
