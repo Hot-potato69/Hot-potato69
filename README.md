@@ -24,15 +24,15 @@
   <img src="https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=00ff41" />
 </p>
 
-<!-- Stats side by side -->
+<!-- Stats side by side (rank hidden, green theme) -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hot-potato69&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hot-potato69&layout=compact&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hot-potato69&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hot-potato69&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
 </p>
 
-<!-- Streak -->
+<!-- Streak (green theme) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hot-potato69&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hot-potato69&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakNum=00ff41&sideNums=ffffff&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=8b949e" />
 </p>
 
 <!-- Activity graph -->
@@ -40,7 +40,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hot-potato69&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" />
 </p>
 
-<!-- Snake animation (needs the workflow file) -->
+<!-- Snake animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Hot-potato69/Hot-potato69/output/github-contribution-grid-snake-dark.svg" />
 </p>
